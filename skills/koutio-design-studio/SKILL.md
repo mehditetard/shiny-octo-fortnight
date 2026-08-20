@@ -1,6 +1,6 @@
 ---
 name: koutio-design-studio
-description: Créer, évaluer et améliorer les designs de Koutio Club sur trois domaines coordonnés : communication graphique, aménagement d'espaces sportifs et web/UI responsive. Utiliser pour les publications, stories, couvertures de Reels, flyers, plannings, panneaux, vitrophanies, campagnes, plans d'implantation, circuits d'entraînement, rendus de salle, landing pages, sites, tableaux de bord et systèmes visuels liés à Koutio Club, Koutio Training ou Koutio Vitalité.
+description: "Créer, évaluer et améliorer les designs de Koutio Club sur trois domaines coordonnés : communication graphique, aménagement d'espaces sportifs et web/UI responsive. Utiliser pour les publications, stories, couvertures de Reels, flyers, plannings, panneaux, vitrophanies, campagnes, plans d'implantation, circuits d'entraînement, rendus de salle, landing pages, sites, tableaux de bord et systèmes visuels liés à Koutio Club, Koutio Training ou Koutio Vitalité."
 ---
 
 # Koutio Design Studio
