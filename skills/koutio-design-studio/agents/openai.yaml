@@ -1,0 +1,4 @@
+interface:
+  display_name: "Koutio Design Studio"
+  short_description: "Design graphique, espace sportif et web Koutio"
+  default_prompt: "Utilise $koutio-design-studio pour transformer ce brief en design Koutio cohérent, distinctif et exploitable."
